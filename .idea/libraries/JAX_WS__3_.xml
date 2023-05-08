@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JAX-WS (3)" type="JAX-WS">
+    <CLASSES>
+      <root url="jar://D:/axis-src-1_4/lib/servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
