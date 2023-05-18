@@ -2,6 +2,7 @@
   <library name="JAX-WS" type="JAX-WS">
     <CLASSES>
       <root url="jar://D:/axis-src-1_4/lib/axis.jar!/" />
+      <root url="jar://D:/axis-src-1_4/lib/activation.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
